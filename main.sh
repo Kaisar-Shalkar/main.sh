@@ -1,1 +1,1 @@
-echo Hello
+echo -e "Hi\nBro"
